@@ -1,5 +1,3 @@
-# GradeManagementSystem
-
 # Grade Management System (GMS)
 
 A Java-based console application for managing, analyzing, and reporting student grades. This system processes grade data from JSON files, performs calculations, updates grades, and can output various reports and evaluations based on command-line arguments.
