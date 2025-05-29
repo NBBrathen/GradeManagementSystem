@@ -1,0 +1,41 @@
+
+{
+    "students": [
+        {
+            "Name": "James Davis",
+            "ID": "806678901",
+            "Grade": 69.23,
+            "expected_grade_max": 82.55,
+            "expected_grade_median": 69.8,
+            "expected_grade_lr": 71.0,
+            "expected_final_exam": 71
+        },
+        {
+            "Name": "Michael Carter",
+            "ID": "806456789",
+            "Grade": 68.08,
+            "expected_grade_max": 81.8,
+            "expected_grade_median": 68.0,
+            "expected_grade_lr": 68.4,
+            "expected_final_exam": 74
+        },
+        {
+            "Name": "Joseph Miller",
+            "ID": "805567891",
+            "Grade": 66.92,
+            "expected_grade_max": 81.3,
+            "expected_grade_median": 68.0,
+            "expected_grade_lr": 69.0,
+            "expected_final_exam": 76
+        },
+        {
+            "Name": "Henry Harris",
+            "ID": "805901234",
+            "Grade": 62.69,
+            "expected_grade_max": 78.85,
+            "expected_grade_median": 63.4,
+            "expected_grade_lr": 64.0,
+            "expected_final_exam": 84
+        }
+    ]
+}
