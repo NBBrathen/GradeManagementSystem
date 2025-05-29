@@ -54,7 +54,6 @@ The system utilizes a `config.properties` file to specify data paths.
 ## Technologies Used
 
 * **Language:** Java
-* **IDE:** IntelliJ IDEA (implied by `.iml` file and typical Java development)
 * **Libraries:**
     * `javax.json` (Jakarta JSON Processing API) for handling JSON data.
     * `org.apache.commons.math3.stat.regression.SimpleRegression` for linear regression in grade prediction.
@@ -66,7 +65,7 @@ The system utilizes a `config.properties` file to specify data paths.
 1.  **Prerequisites:**
     * Java Development Kit (JDK) installed (e.g., JDK 8 or newer).
     * Git installed.
-    * Ensure the `javax.json` library (e.g., `org.glassfish.javax.json.jar` or the appropriate Jakarta EE 8+ equivalent) and `org.apache.commons.math3` library are included in your project's classpath/dependencies. If using a build tool like Maven or Gradle, these should be added as dependencies in your `pom.xml` or `build.gradle` file.
+    * Ensure the `javax.json` library (e.g., `org.glassfish.javax.json.jar` or the appropriate Jakarta EE 8+ equivalent) and `org.apache.commons.math3` library are included in your project's classpath/dependencies. 
 
 2.  **Clone the repository:**
     ```bash
@@ -74,36 +73,14 @@ The system utilizes a `config.properties` file to specify data paths.
     cd GradeManagementSystem
     ```
 
-3.  **Open in IntelliJ IDEA:**
-    * Open IntelliJ IDEA.
-    * Select "Open" or "Import Project" and navigate to the cloned `GradeManagementSystem` directory.
-    * IntelliJ should recognize the project. Ensure the necessary libraries are correctly configured (usually handled automatically if using Maven/Gradle, or by adding JARs to the module dependencies if managing manually).
-
-4.  **Project Structure & Data Files:**
+3.  **Project Structure & Data Files:**
     * The application expects a `config.properties` file in the root directory of the project. This file should define:
         * `datapath`: Relative or absolute path to the directory containing `grades.json`, `schema.json`, `scheme.json`, and `updates.json`.
         * `outputpath`: Relative or absolute path to the directory where `notices.json` will be saved.
-    * Create these directories if they don't exist. For example, create a `data` folder and an `output` folder in the project root.
-    * **Example `config.properties`:**
-        ```properties
-        datapath=data
-        outputpath=output
-        ```
     * Place your JSON input files (`grades.json`, `schema.json`, `scheme.json`, `updates.json`) into the directory specified by `datapath`.
     * The `outputpath` directory will be used to store `notices.json`.
 
-5.  **Build the project:**
-    * In IntelliJ IDEA, you can build the project using **Build > Build Project**.
-    * **To create a runnable JAR (optional but recommended for easier command-line use):**
-        * Go to **File > Project Structure > Artifacts**.
-        * Click the **+** sign, select **JAR**, then **From modules with dependencies...**.
-        * **Module:** Select your main module (e.g., `GMS` or `GradeManagementSystem`).
-        * **Main Class:** Click the `...` button and select the `ManagementSystem.GradeManagementSystem` class.
-        * **Directory for META-INF/MANIFEST.MF:** Choose the default `src/main/resources` or similar, or let IntelliJ create it.
-        * Click **OK**, then **OK** again.
-        * To build the JAR, go to **Build > Build Artifacts... > [Your Artifact Name] > Build**. The JAR will typically be in `out/artifacts/[Your_Artifact_Name]/`.
-
-6.  **Run the application:**
+4.  **Run the application:**
     * **From IntelliJ IDEA:**
         * Create a new Run/Debug Configuration.
         * Set the main class to `ManagementSystem.GradeManagementSystem`.
