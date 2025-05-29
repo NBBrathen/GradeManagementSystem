@@ -1,0 +1,22 @@
+{
+  "Quiz": {
+    "Count": 5,
+    "MaxScore": 10,
+    "Weight": 10
+  },
+  "Assignment": {
+    "Count": 5,
+    "MaxScore": 30,
+    "Weight": 30
+  },
+  "Midterm": {
+    "Count": 1,
+    "MaxScore": 100,
+    "Weight": 25
+  },
+  "Final": {
+    "Count": 1,
+    "MaxScore": 100,
+    "Weight": 35
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "Students": [
+    {
+      "Name": "Ethan Adams",
+      "ID": "805123456",
+      "Coursework": {
+        "Q4": "8",
+        "A3": "26",
+        "A4": "27"
+      }
+    },
+    {
+      "Name": "Lucas Anderson",
+      "ID": "806234567",
+      "Coursework": {
+        "Q4": "7",
+        "A3": "24",
+        "A4": "23"
+      }
+    },
+    {
+      "Name": "Benjamin Brown",
+      "ID": "805345678",
+      "Coursework": {
+        "Q4": "9",
+        "A3": "28",
+        "A4": "29"
+      }
+    },
+    {
+      "Name": "Michael Carter",
+      "ID": "806456789",
+      "Coursework": {
+        "Q4": "6",
+        "A3": "21",
+        "A4": "22"
+      }
+    },
+    {
+      "Name": "Daniel Clark",
+      "ID": "805567890",
+      "Coursework": {
+        "Q4": "8",
+        "A3": "27",
+        "A4": "28"
+      }
+    },
+    {
+      "Name": "James Davis",
+      "ID": "806678901",
+      "Coursework": {
+        "Q4": "7",
+        "A3": "22",
+        "A4": "23"
+      }
+    },
+    {
+      "Name": "William Evans",
+      "ID": "805789012",
+      "Coursework": {
+        "Q4": "9",
+        "A3": "29",
+        "A4": "30"
+      }
+    },
+    {
+      "Name": "Alexander Garcia",
+      "ID": "806890123",
+      "Coursework": {
+        "Q4": "10",
+        "A3": "30",
+        "A4": "30"
+      }
+    },
+    {
+      "Name": "Henry Harris",
+      "ID": "805901234",
+      "Coursework": {
+        "Q4": "5",
+        "A3": "20",
+        "A4": "21"
+      }
+    },
+    {
+      "Name": "Oliver Johnson",
+      "ID": "806012345",
+      "Coursework": {
+        "Q4": "8",
+        "A3": "26",
+        "A4": "27"
+      }
+    },
+    {
+      "Name": "Matthew King",
+      "ID": "805123457",
+      "Coursework": {
+        "Q4": "6",
+        "A3": "22",
+        "A4": "23"
+      }
+    },
+    {
+      "Name": "Daniel Lee",
+      "ID": "806234568",
+      "Coursework": {
+        "Q4": "9",
+        "A3": "29",
+        "A4": "30"
+      }
+    },
+    {
+      "Name": "Sebastian Lewis",
+      "ID": "805345679",
+      "Coursework": {
+        "Q4": "7",
+        "A3": "23",
+        "A4": "24"
+      }
+    },
+    {
+      "Name": "David Martinez",
+      "ID": "806456780",
+      "Coursework": {
+        "Q4": "8",
+        "A3": "27",
+        "A4": "28"
+      }
+    },
+    {
+      "Name": "Joseph Miller",
+      "ID": "805567891",
+      "Coursework": {
+        "Q4": "6",
+        "A3": "21",
+        "A4": "22"
+      }
+    },
+    {
+      "Name": "Jack Robinson",
+      "ID": "806678902",
+      "Coursework": {
+        "Q4": "10",
+        "A3": "30",
+        "A4": "30"
+      }
+    },
+    {
+      "Name": "Ryan Scott",
+      "ID": "805789013",
+      "Coursework": {
+        "Q4": "7",
+        "A3": "24",
+        "A4": "25"
+      }
+    },
+    {
+      "Name": "Andrew Thomas",
+      "ID": "806890124",
+      "Coursework": {
+        "Q4": "8",
+        "A3": "27",
+        "A4": "28"
+      }
+    },
+    {
+      "Name": "Nathan White",
+      "ID": "805901235",
+      "Coursework": {
+        "Q4": "8",
+        "A3": "26",
+        "A4": "27"
+      }
+    }
+  ]
+}

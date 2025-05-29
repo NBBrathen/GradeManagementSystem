@@ -1,0 +1,366 @@
+
+{
+    "Students": [
+        {
+            "Name": "Ethan Adams",
+            "ID": "805123456",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "7",
+                "Q2": "9",
+                "Q3": "6",
+                "Q4": "8",
+                "Q5": "",
+                "A1": "25",
+                "A2": "22",
+                "A3": "26",
+                "A4": "27",
+                "A5": "",
+                "Midterm": "88",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Lucas Anderson",
+            "ID": "806234567",
+            "Department": "Mathematics",
+            "Coursework": {
+                "Q1": "6",
+                "Q2": "8",
+                "Q3": "7",
+                "Q4": "7",
+                "Q5": "",
+                "A1": "20",
+                "A2": "18",
+                "A3": "24",
+                "A4": "23",
+                "A5": "",
+                "Midterm": "75",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Benjamin Brown",
+            "ID": "805345678",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "9",
+                "Q2": "10",
+                "Q3": "8",
+                "Q4": "9",
+                "Q5": "",
+                "A1": "28",
+                "A2": "24",
+                "A3": "28",
+                "A4": "29",
+                "A5": "",
+                "Midterm": "92",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Michael Carter",
+            "ID": "806456789",
+            "Department": "Electrical Computer Engineering",
+            "Coursework": {
+                "Q1": "5",
+                "Q2": "6",
+                "Q3": "7",
+                "Q4": "6",
+                "Q5": "",
+                "A1": "22",
+                "A2": "20",
+                "A3": "21",
+                "A4": "22",
+                "A5": "",
+                "Midterm": "68",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Daniel Clark",
+            "ID": "805567890",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "8",
+                "Q2": "7",
+                "Q3": "9",
+                "Q4": "8",
+                "Q5": "",
+                "A1": "26",
+                "A2": "25",
+                "A3": "27",
+                "A4": "28",
+                "A5": "",
+                "Midterm": "85",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "James Davis",
+            "ID": "806678901",
+            "Department": "Biology",
+            "Coursework": {
+                "Q1": "6",
+                "Q2": "5",
+                "Q3": "7",
+                "Q4": "7",
+                "Q5": "",
+                "A1": "18",
+                "A2": "21",
+                "A3": "22",
+                "A4": "23",
+                "A5": "",
+                "Midterm": "71",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "William Evans",
+            "ID": "805789012",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "7",
+                "Q2": "8",
+                "Q3": "6",
+                "Q4": "9",
+                "Q5": "",
+                "A1": "27",
+                "A2": "26",
+                "A3": "29",
+                "A4": "30",
+                "A5": "",
+                "Midterm": "90",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Alexander Garcia",
+            "ID": "806890123",
+            "Department": "Mathematics",
+            "Coursework": {
+                "Q1": "9",
+                "Q2": "10",
+                "Q3": "10",
+                "Q4": "10",
+                "Q5": "",
+                "A1": "30",
+                "A2": "29",
+                "A3": "30",
+                "A4": "30",
+                "A5": "",
+                "Midterm": "97",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Henry Harris",
+            "ID": "805901234",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "5",
+                "Q2": "6",
+                "Q3": "5",
+                "Q4": "5",
+                "Q5": "",
+                "A1": "19",
+                "A2": "17",
+                "A3": "20",
+                "A4": "21",
+                "A5": "",
+                "Midterm": "65",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Oliver Johnson",
+            "ID": "806012345",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "8",
+                "Q2": "9",
+                "Q3": "9",
+                "Q4": "8",
+                "Q5": "",
+                "A1": "25",
+                "A2": "27",
+                "A3": "26",
+                "A4": "27",
+                "A5": "",
+                "Midterm": "89",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Matthew King",
+            "ID": "805123457",
+            "Department": "Electrical Computer Engineering",
+            "Coursework": {
+                "Q1": "6",
+                "Q2": "5",
+                "Q3": "8",
+                "Q4": "6",
+                "Q5": "",
+                "A1": "20",
+                "A2": "19",
+                "A3": "22",
+                "A4": "23",
+                "A5": "",
+                "Midterm": "73",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Daniel Lee",
+            "ID": "806234568",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "9",
+                "Q2": "8",
+                "Q3": "10",
+                "Q4": "9",
+                "Q5": "",
+                "A1": "28",
+                "A2": "30",
+                "A3": "29",
+                "A4": "30",
+                "A5": "",
+                "Midterm": "95",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Sebastian Lewis",
+            "ID": "805345679",
+            "Department": "Biology",
+            "Coursework": {
+                "Q1": "7",
+                "Q2": "6",
+                "Q3": "7",
+                "Q4": "7",
+                "Q5": "",
+                "A1": "22",
+                "A2": "24",
+                "A3": "23",
+                "A4": "24",
+                "A5": "",
+                "Midterm": "78",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "David Martinez",
+            "ID": "806456780",
+            "Department": "Mathematics",
+            "Coursework": {
+                "Q1": "8",
+                "Q2": "9",
+                "Q3": "7",
+                "Q4": "8",
+                "Q5": "",
+                "A1": "25",
+                "A2": "23",
+                "A3": "27",
+                "A4": "28",
+                "A5": "",
+                "Midterm": "87",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Joseph Miller",
+            "ID": "805567891",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "5",
+                "Q2": "6",
+                "Q3": "6",
+                "Q4": "6",
+                "Q5": "",
+                "A1": "18",
+                "A2": "20",
+                "A3": "21",
+                "A4": "22",
+                "A5": "",
+                "Midterm": "70",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Jack Robinson",
+            "ID": "806678902",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "9",
+                "Q2": "10",
+                "Q3": "8",
+                "Q4": "10",
+                "Q5": "",
+                "A1": "30",
+                "A2": "28",
+                "A3": "30",
+                "A4": "30",
+                "A5": "",
+                "Midterm": "98",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Ryan Scott",
+            "ID": "805789013",
+            "Department": "Electrical Computer Engineering",
+            "Coursework": {
+                "Q1": "6",
+                "Q2": "7",
+                "Q3": "5",
+                "Q4": "7",
+                "Q5": "",
+                "A1": "21",
+                "A2": "22",
+                "A3": "24",
+                "A4": "25",
+                "A5": "",
+                "Midterm": "72",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Andrew Thomas",
+            "ID": "806890124",
+            "Department": "Computer Science",
+            "Coursework": {
+                "Q1": "7",
+                "Q2": "9",
+                "Q3": "6",
+                "Q4": "8",
+                "Q5": "",
+                "A1": "26",
+                "A2": "27",
+                "A3": "27",
+                "A4": "28",
+                "A5": "",
+                "Midterm": "84",
+                "Final": ""
+            }
+        },
+        {
+            "Name": "Nathan White",
+            "ID": "805901235",
+            "Department": "Biology",
+            "Coursework": {
+                "Q1": "8",
+                "Q2": "7",
+                "Q3": "9",
+                "Q4": "8",
+                "Q5": "",
+                "A1": "24",
+                "A2": "23",
+                "A3": "26",
+                "A4": "27",
+                "A5": "",
+                "Midterm": "86",
+                "Final": ""
+            }
+        }
+    ]
+}
